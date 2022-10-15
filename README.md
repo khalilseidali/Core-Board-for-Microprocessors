@@ -1,4 +1,4 @@
-# Core-Board-for-Microprocessor
+# Core-Board-for-Microprocessors
 includes most popular Microprocessors 
 Series : (STM32F1 , STM32F4 , ATMEGA , XMEGA , ... ) 
 
