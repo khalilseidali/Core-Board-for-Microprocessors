@@ -1,2 +1,5 @@
 # Core-Board-for-Microprocessor
-Any MCU need a Core-Board for its test, debugging, pin-out for users interfaces such as (SPI, I2C, UART, USB...) and also as the core-processor in main project. 
+includes most popular Microprocessors 
+Series : (STM32F1 , STM32F4 , ATMEGA , XMEGA , ... ) 
+
+Trying to update this Repository as soon as I can
